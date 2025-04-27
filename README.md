@@ -31,8 +31,7 @@ int main()
 
 
 ## RESULT:
-Thus the program to read 3 characters one by one and print the characters in a reverse order has been executed successfully.
-
+Thus, the C program to read a symbol from the user and display the same symbol was successfully written, compiled, and executed.
 
 # EX-02- Conditional-Statements
 ## AIM:
@@ -76,7 +75,7 @@ int main()
 
 
 # RESULT:
-Thus the program to read A values and check whether A is positive number or not has been executed successfully.
+Thus, the program to read a value and check whether it is an even number, and if it is even, to further check whether it is less than or equal to 10 using nested if, has been executed successfully.
  
  
  
@@ -120,8 +119,7 @@ int main()
 
 
 ## RESULT:
-Thus the program to find minimum between two fraction numbers using conditional operator or ternary operator has been executed successfully.
-
+Thus, the program to find the difference between simple interest and compound interest was successfully written, compiled, and executed.
 
 
 
@@ -162,8 +160,7 @@ int main()
 
 
 ## RESULT:
-Thus the program to check whether the input value is equal to 1 using simple if statement has been executed successfully
-
+Thus, the program to find the absolute value of a number entered by the user without using any predefined function, using a simple if statement, was successfully written, compiled, and executed.
 
 
 # EX-05- Calculating Total, Percentage, And Division Using Conditional Statements 
@@ -192,5 +189,6 @@ int main()
 
 
 ## RESULT:
-The program successfully takes three subject marks, calculates the total and percentage, and correctly determines the division based on predefined grading logic.
+Thus, the program to calculate the total, average, and percentage of six subjects was successfully written, compiled, and executed.
+
 
